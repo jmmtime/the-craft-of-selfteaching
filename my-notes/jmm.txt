@@ -1,1 +1,7 @@
 正如李老师所言，学习一个新技能要挣扎很久，事实上python这个软降安装-卸载这个过程经历了不下五次。
+总结：
+git clone--下载代码
+git status--查看本地仓库的git状态
+git add--添加本地改动到下一次commit中
+git commit--提交本次commit到本地仓库
+git push --提交本地仓库的commit list到github的远程仓库
